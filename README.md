@@ -17,4 +17,6 @@
   <li>Text Analytics</li>
   <li>Supply Chain Analytics</li>
   
+
+  
 <center><img src="https://user-images.githubusercontent.com/61481422/124643909-06fad900-de68-11eb-86f6-1df9c89f735a.png" alt="" width="800"></center>
