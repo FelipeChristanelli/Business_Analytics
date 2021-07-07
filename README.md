@@ -1,4 +1,4 @@
-# Business_Analytics
+# Business Analytics
 5º Curso da Formação Cientista de Dados com o objetivo de: Entender os principais conceitos de Business Analytics; Realizar analise exploratória de dados e construir modelos de otimização; Compreender tendências de mercado e definir métricas efetivas para análise de dados; Gerar resultados analíticos para suportar a tomada de decisões:
 
 <ul>
