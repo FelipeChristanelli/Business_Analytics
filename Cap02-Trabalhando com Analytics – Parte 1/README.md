@@ -33,7 +33,11 @@ Nesse primeiro capítulo o objetivo é dar uma visão geral do que é analytics 
   <li>Distribuições de Probabilidade para Variáveis Contínuas – Regra 68-95-99</li>
   <li>Distribuições de Probabilidade para Variáveis Contínuas – Escore Z</li>
   <li>Distribuições de Probabilidade para Variáveis Contínuas – Comprovando o Teorema Central do Limite – Exemplo 1</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Distribuições de Probabilidade para Variáveis Contínues – Comprovando o Teorema Central do Limite – Exemplo 2</li>
+  <li>Distribuições de Probabilidade para Variáveis Contínuas – A Influência do Desvio Padrão</li>
+  <li>Distribuições de Probabilidade para Variáveis Contínuas – Criando as Curvas PDF e CDF</li>
+  <li>Distribuições de Probabilidade para Variáveis Contínuas – Calculando as Probabilidades para a Variável Aleatória</li>
+  <li>Distribuições de Probabilidade para Variáveis Contínuas – Plot do Range de Probabilidades</li>
+  <li>Distribuições de Probabilidade para Variáveis Contínuas – Teste de Normalidade</li>
+  <li>Distribuições de Probabilidade para Variáveis Contínuas – Conclusão – Distribuição Exponencial</li>
 </u>
