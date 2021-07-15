@@ -23,20 +23,20 @@ E ao final, vamos ver Simulação de Monte Carlo e faremos então um Mini-Projet
   <li>Análise de Regressão – Teste Estatístico – Interpretando as Estatísticas</li>
   <li>Análise de Regressão – Teste Estatístico – Organizando os Dados por Grupo da Variável Explicativa</li>
   <li>Análise de Regressão – Teste Estatístico – Checando a Suposição de Normalidade com Shapiro Test</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Análise de Regressão – Teste Estatístico – Checando a Suposição de Homogeneidade das Variâncias com Bartlett’s Test</li>
+  <li>Análise de Regressão – Teste Estatístico – Interpretação do Valor-p e Conclusão</li>
+  <li>Iniciando a Terceira Etapa do Processo de Análise </li>
+  <li>Análise de Regressão – Modelo de Regressão Linear Simples – Criando o Modelo Base – 3 Partes</li>
+  <li>Análise de Regressão – Modelo de Regressão Linear Múltipla – Adicionando Mais Preditores ao Modelo</li>
+  <li>Análise de Regressão – Modelo de Regressão Linear Múltipla – Interpretando o Resultado e Verificando Preditores Estatisticamente Significativos</li>
+  <li>Análise de Regressão – Detectando Colinearidade com Variance Inflation Factor</li>
+  <li>Análise de Regressão – Seleção de Atributos – Método Stepwise e Coeficiente AIC</li>
+  <li>Análise de Regressão – Análise de Resíduos e Diagnósticos</li>
+  <li>Análise de Regressão – Conclusão e Resposta do Problema de Negócio</li>
+  <li>Teste de Hipóteses como Ferramenta de Negócio</li>
+  <li>Estudo de Caso – Definindo o Problema – Teste de Hipóteses no Esporte</li>
+  <li>Estudo de Caso – Compreendendo o Problema</li>
+  <li>Estudo de Caso – Definindo as Hipóteses</li>
   <li></li>
   <li></li>
   <li></li>
