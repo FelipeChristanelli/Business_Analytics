@@ -22,22 +22,5 @@ Nesse primeiro capítulo o objetivo é dar uma visão geral do que é analytics 
   <li>Regras Básicas que Regem a Teoria da Probabilidade</li>
   <li>O que São Distribuições de Probabilidade?</li>
   <li>Distribuições de Probabilidade e Função de Densidade</li>
-  <li>Distribuição de Probabilidade para Variável Discreta – Qual a Probabilidade de Responder Corretamente um Exame Final? – 4 Partes</li>
-  <li>Distribuição de Probabilidade para Variável Discreta – Qual a Probabilidade de Ter um Número Específico de Vendas por Semana? – 3 Partes</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – Parte 6</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – A Distribuição Normal e o Teorema Central do Limite</li>
-  <li>Distribuição Normal e Inferência Estatística</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – A Distribuição Normal e a Contagem de Frequência</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – A Distribuição Normal e Curva de Densidade</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – Probability Density Function</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – Regra 68-95-99</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – Escore Z</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – Comprovando o Teorema Central do Limite – Exemplo 1</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínues – Comprovando o Teorema Central do Limite – Exemplo 2</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – A Influência do Desvio Padrão</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – Criando as Curvas PDF e CDF</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – Calculando as Probabilidades para a Variável Aleatória</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – Plot do Range de Probabilidades</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – Teste de Normalidade</li>
-  <li>Distribuições de Probabilidade para Variáveis Contínuas – Conclusão – Distribuição Exponencial</li>
+  <li>Distribuição de Probabilidade</li>
 </u>
