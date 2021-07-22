@@ -1,6 +1,6 @@
 # Distribuições de Probabilidade
 
-Vamos ver na prática uma execução de distribuição de probabilidade que descreve como os valores de uma variável aleatória são distribuídos. Quando as características dessas distribuições teóricas são bem compreendidas, elas podem ser usadas para fazer inferências estatísticas em toda a população de dados como um todo. Muitos algoritmos de Machine Learning são baseados em distribuições de probabilidade.:
+Vamos ver na prática uma execução de distribuição de probabilidade que descreve como os valores de uma variável aleatória são distribuídos. Quando as características dessas distribuições teóricas são bem compreendidas, elas podem ser usadas para fazer inferências estatísticas em toda a população de dados como um todo. Muitos algoritmos de Machine Learning são baseados em distribuições de probabilidade:
 
 <ul>
   <li>Distribuições de Probabilidade e Função de Densidade</li>
