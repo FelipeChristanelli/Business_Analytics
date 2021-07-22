@@ -2,7 +2,13 @@
 
 A análise de regressão é uma maneira de classificar matematicamente quais dessas variáveis realmente têm impacto. Responde às perguntas: Quais fatores são mais importantes? O que podemos ignorar? Como esses fatores interagem entre si? E, talvez o mais importante, até que ponto estamos certos sobre todos esses fatores?
 Na análise de regressão, esses fatores são chamados de variáveis. Você tem sua variável dependente - o principal fator que você está tentando entender ou prever. E então você tem suas variáveis independentes - os fatores que você suspeita ter impacto na sua variável dependente.
-A análise de regressão permite estudar e prever esse relacionamento:
+A análise de regressão permite estudar e prever esse relacionamento.
+
+Neste projeto, vamos trabalhar para a Motor Trend (uma revista sobre a indústria automobilística), observando um conjunto de dados de uma coleção de carros (que contém 32 observações), eles estão interessados em explorar a relação entre um conjunto de variáveis e a autonomia de combustível em milhas por galão (mpg)(padrão americano), que é a nossa variável target. 
+Estão particularmente interessados nestas duas questões:
+
+Qual tipo de transmissão consome menos combustível, automática ou manual?
+Quão diferente é a autonomia (mpg) entre as transmissões 'Automática' e 'Manual'?
 
 <ul>
   <li>Definindo o Problema de Negócio</li>
