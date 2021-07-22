@@ -13,7 +13,6 @@ E ao final, vamos ver Simulação de Monte Carlo e faremos então um Mini-Projet
   <li>Como Funciona a Regressão</li>
   <li>Análise de Regressão</li>
   <li>Teste de Hipóteses como Ferramenta de Negócio</li>
-  <li>Estudo de Caso – Definindo o Problema – Teste de Hipóteses no Esporte</li>
-  <li>Estudo de Caso – Compreendendo o Problema</li>
-  <li>Estudo de Caso – Definindo as Hipóteses</li>
+  <li>Estudo de Caso</li>
+  <li>Estudo Dirigido – Simulação de Monte Carlo e Séries Temporais para Modelagem Financeira</li>
 </u>
