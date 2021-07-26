@@ -44,11 +44,15 @@ Vamos criar vários projetos até o final do curso para adquirir experiência na
 
   <li>Definindo as Variáveis para Segmentação</li>
   <li>Análise de Cluster</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Algoritmos de Clusterização – 2 Partes</li>
+  <li>Métricas de Clusterização – Definição e Interpretação</li>
+  <li>Segmentação 1 – Definindo o Número de Atributos</li>
+  <li>Segmentação 1 – Interpretando a Curva de Elbow</li>
+  <li>Segmentação 1 – Construindo e Treinando o Modelo</li>
+  <li>Segmentação 1 – Visualização, Interpretação e Análise dos Segmentos – 2 Partes</li>
+  <li>Segmentação 2 – Construção, Visualização, Interpretação e Análise dos Segmentos</li>
+  <li>Segmentação 3 – Construção, Visualização, Interpretação e Análise dos Segmentos</li>
+  <li>Segmentação 4 – Construção, Visualização, Interpretação e Análise dos Segmentos</li>
+  <li>Segmentação 5 – Construção, Visualização, Interpretação e Análise dos Segmentos</li>
+  <li>Entregando o Relatório da Segmentação</li>
 </u>
